@@ -21,7 +21,7 @@ Educations
 
 2017.09 – 2019.06, Master in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
 
-2013.09 – 2017.06, BEng in Electronic Packaging Technology, Xidian University, Xi'an, China. GPA: 3.8/4.00, RANK: 1/37 
+2013.09 – 2017.06, BEng in Electronic Packaging Technology, Xidian University, Xi'an, China. GPA: 3.8/4.00, Rank: 1/37 
 
 Getting started
 ======
