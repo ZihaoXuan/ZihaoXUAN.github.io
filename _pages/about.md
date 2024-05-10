@@ -12,12 +12,15 @@ Zihao Xuan is currently a Postdoctoral Fellow in the AI Chip Center for Emerging
 
 Works
 ======
+
 2023.10 – Present, Postdoctoral Fellow in the AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong University of Science and Technology, Hong Kong SAR.
 
 Educations
 ======
 2019.09 – 2023.06, PhD in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+
 2017.09 – 2019.06, Master in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+
 2013.09 – 2017.06, BEng in Electronic Packaging Technology, Xidian University, Xi'an, China. GPA: 3.8/4.00, RANK: 1/37 
 
 Getting started
