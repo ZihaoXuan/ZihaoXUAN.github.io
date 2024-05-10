@@ -1,13 +1,14 @@
 ---
 permalink: /
 title: "Zihao XUAN (宣自豪)"
+excerpt: "Postdoctoral Fellow"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Zihao Xuan is currently a Postdoctoral Fellow in the AI Chip Center for Emerging Smart Systems (ACCESS) at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, University of Science and Technology, under the supervision of Prof. [Yi Kang](https://sme.ustc.edu.cn/2022/0601/c30996a556923/page.htm) in 2023, and the B.S. degree in mechano-electronic engineering from Xidian University in 2017. His research focuses on neuromorphic computing, in-memory computing, AI chip, computer architecture, and spiking neural network (SNN) algorithm.
+Zihao Xuan is currently a Postdoctoral Fellow in the AI Chip Center for Emerging Smart Systems (ACCESS) at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, University of Science and Technology, under the supervision of Prof. [Yi Kang](https://sme.ustc.edu.cn/2022/0601/c30996a556923/page.htm) in 2023, and the B.S. degree in mechano-electronic engineering from Xidian University in 2017. His research focuses on neuromorphic computing, in-memory computing, AI chip, computer architecture, and spiking neural network (SNN) algorithms.
 
 Works
 ======
