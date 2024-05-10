@@ -12,14 +12,13 @@ Zihao Xuan is currently a Postdoctoral Fellow in the AI Chip Center for Emerging
 
 Works
 ======
-2023.10 - Present, Postdoctoral Fellow in the AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong University of Science and Technology.
+2023.10 – Present, Postdoctoral Fellow in the AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong University of Science and Technology, Hong Kong SAR.
 
 Educations
 ======
-
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2019.09 – 2023.06, PhD in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+2017.09 – 2019.06, Master in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+2013.09 – 2017.06, BEng in Electronic Packaging Technology, Xidian University, Xi'an, China. GPA: 3.8/4.00, RANK: 1/37 
 
 Getting started
 ======
