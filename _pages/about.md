@@ -18,14 +18,19 @@ Works
 Educations
 ======
 2019.09 – 2023.06, PhD in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+
 2017.09 – 2019.06, Master in Electronic Science and Technology, University of Science and Technology of China, Hefei, China.
+
 2013.09 – 2017.06, BEng in Electronic Packaging Technology, Xidian University, Xi'an, China. GPA: 3.8/4.00, Rank: 1/37 
 
 Honors and Awards
 ======
 2015 National Inspirational Scholarship
+
 2016 National Scholarship and The Third Prize of the National Advanced Mathematics Competition
+
 2017 Outstanding Graduate of Xidian University
+
 2019 Guanghua Scholarship
 
 Site-wide configuration
